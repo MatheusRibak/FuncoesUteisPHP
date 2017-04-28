@@ -1,5 +1,5 @@
 # Formatar Número em Real
-É muito comum um número vir do baco como '1000', '10', '350.97', e você precisar formatá-lo para real.
+É muito comum um número vir do banco como '1000', '10', '350.97', e você precisar formatá-lo para real.
 Para isso podemos usar a seguinte função:
 
 ```php
