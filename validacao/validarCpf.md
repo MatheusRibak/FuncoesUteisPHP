@@ -52,4 +52,4 @@ echo validarCpf('00000000000');
 ?>
 ```
 
-O número que informamos é um CPF inválido. Logo a mensagem que vai surgir vai ser **O CPF informado é válido!!!**. Você pode testar com outros CPFs inválidos para verificar, ou usar o seu para ver que está funcionando corretamente!
+O número que informamos é um CPF inválido. Logo a mensagem que vai surgir vai ser "**O CPF informado é inválido!!!**". Você pode testar com outros CPFs inválidos para verificar, ou usar o seu para ver que está funcionando corretamente!
