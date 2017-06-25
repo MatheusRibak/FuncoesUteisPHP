@@ -7,4 +7,10 @@ function formataReal($valor) {
   return "R$ " . number_format($valor, 2, ",", ".");
 }
 
+//Formatar Data Americana em Data Brasileira
+
+function formataDataAmericanaEmBrasileira($dataAmericana) {
+  return date('d/m/Y',  strtotime($dataAmericana));
+}
+
 ?>
